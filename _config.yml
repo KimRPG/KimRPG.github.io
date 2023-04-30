@@ -18,9 +18,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: KimRPG # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 22000202_KimHyunSeung # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -70,17 +70,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://cdn.pixabay.com/photo/2017/07/24/12/43/schrecksee-2534484__340.jpg
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:https://cdn.pixabay.com/photo/2017/07/24/12/43/schrecksee-2534484__340.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
