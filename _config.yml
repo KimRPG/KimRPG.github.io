@@ -80,7 +80,7 @@ theme_mode: dark # [light|dark]
 img_cdn: https://cdn.pixabay.com/photo/2017/07/24/12/43/schrecksee-2534484__340.jpg
 
 # the avatar on sidebar, support local or CORS resources
-avatar:https://cdn.pixabay.com/photo/2017/07/24/12/43/schrecksee-2534484__340.jpg
+avatar:
 
 # boolean type, the global switch for TOC in posts.
 toc: true
